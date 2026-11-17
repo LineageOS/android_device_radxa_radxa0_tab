@@ -16,6 +16,24 @@
       "message": "This should go into device/amlogic/common, IMO. In the overlays for non-ATV.",
       "revId": "b88c60b5c35e3de8286b207a1b48a9ecf72e642d",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "6df70077_a1ead041",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 15060
+      },
+      "writtenOn": "2026-11-17T19:44:52Z",
+      "side": 1,
+      "message": "I kept it in radxa0_tab because the Radxa Zero is the only board I can test, and I don\u0027t know whether the other non-ATV boards (bananapi_m5_tab, odroidc4_tab, radxa02_tab, radxa02pro_tab) have a power button that would make staying awake unwanted.",
+      "parentUuid": "a4b29ecb_1db3d811",
+      "revId": "b88c60b5c35e3de8286b207a1b48a9ecf72e642d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
