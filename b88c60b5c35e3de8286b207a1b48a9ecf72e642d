@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "a4b29ecb_1db3d811",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2026-11-17T12:04:39Z",
+      "side": 1,
+      "message": "This should go into device/amlogic/common, IMO. In the overlays for non-ATV.",
+      "revId": "b88c60b5c35e3de8286b207a1b48a9ecf72e642d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
