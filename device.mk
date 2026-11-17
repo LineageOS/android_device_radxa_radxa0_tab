@@ -10,3 +10,7 @@ WITH_GMS_COMMS_SUITE := false
 endif
 
 $(call inherit-product, device/radxa/radxa0/device.mk)
+
+## Overlays
+PRODUCT_PACKAGES += \
+    SettingsProviderOverlayTarget
