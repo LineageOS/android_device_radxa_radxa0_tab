@@ -5,6 +5,9 @@
 
 include device/radxa/radxa0/BoardConfig.mk
 
+## Fastboot
+TARGET_BOARD_FASTBOOT_INFO_FILE := device/radxa/radxa0_tab/fastboot-info.txt
+
 ## Kernel
 TARGET_KERNEL_CONFIG += aml_tab.config
 
